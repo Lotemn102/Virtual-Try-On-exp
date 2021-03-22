@@ -9,6 +9,7 @@ Image-based Virtual Try-On](https://minar09.github.io/c3dvton/cvprw20_3d.pdf)
 - [Pixel2Mesh: Generating 3D Mesh Models
 from Single RGB Images](https://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf)
 - [Video Based Reconstruction of 3D People Models](https://arxiv.org/pdf/1803.04758.pdf)
+- [VITON: An Image-based Virtual Try-on Network](https://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf)
 
 ## Datasets
 
