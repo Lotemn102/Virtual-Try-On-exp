@@ -12,14 +12,14 @@ from Single RGB Images](https://openaccess.thecvf.com/content_ECCV_2018/papers/N
 - [VITON: An Image-based Virtual Try-on Network](https://openaccess.thecvf.com/content_cvpr_2018/papers/Han_VITON_An_Image-Based_CVPR_2018_paper.pdf)
 - [Towards Multi-pose Guided Virtual Try-on Network](https://arxiv.org/pdf/1902.11026v1.pdf)
 - [LEARNING TO TRANSFER TEXTURE FROM CLOTHING IMAGES TO 3D HUMANS](http://virtualhumans.mpi-inf.mpg.de/pix2surf/)
-- [TaylorNet](https://arxiv.org/pdf/2003.04583.pdf)
+- [TailorNet](https://arxiv.org/pdf/2003.04583.pdf)
 
 ## Datasets
 
 - [People Snapshot Dataset](https://graphics.tu-bs.de/people-snapshot)
 - [deepFashion3D](https://github.com/kv2000/deepFashion3D)
 - [Sizer](https://virtualhumans.mpi-inf.mpg.de/sizer/) (Password: `tiwari20sizer`)
-- [TaylorNet Dataset](https://github.com/zycliao/TailorNet_dataset)
+- [TailorNet Dataset](https://github.com/zycliao/TailorNet_dataset)
 - [Garment Generation Dataset](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/)
 
 ## Jackpots!
