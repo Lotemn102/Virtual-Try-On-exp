@@ -21,3 +21,6 @@ from Single RGB Images](https://openaccess.thecvf.com/content_ECCV_2018/papers/N
 - [Sizer](https://virtualhumans.mpi-inf.mpg.de/sizer/) (Password: `tiwari20sizer`)
 - [TaylorNet Dataset](https://github.com/zycliao/TailorNet_dataset)
 - [Garment Generation Dataset](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/)
+
+## Jackpots!
+- [awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on)
