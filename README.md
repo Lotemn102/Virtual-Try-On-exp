@@ -18,5 +18,5 @@ from Single RGB Images](https://openaccess.thecvf.com/content_ECCV_2018/papers/N
 
 - [People Snapshot Dataset](https://graphics.tu-bs.de/people-snapshot)
 - [deepFashion3D](https://github.com/kv2000/deepFashion3D)
-- [Sizer](https://virtualhumans.mpi-inf.mpg.de/sizer/)
+- [Sizer](https://virtualhumans.mpi-inf.mpg.de/sizer/) (Password: `tiwari20sizer`)
 - [TaylorNet Dataset](https://github.com/zycliao/TailorNet_dataset)
