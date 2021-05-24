@@ -1,4 +1,4 @@
-# Castrox
+# VTON-exp
 Papers and datasets for VTON project
 
 ## Papers
@@ -17,8 +17,8 @@ from Single RGB Images](https://openaccess.thecvf.com/content_ECCV_2018/papers/N
 ## Datasets
 
 - [People Snapshot Dataset](https://graphics.tu-bs.de/people-snapshot)
-- [deepFashion3D](https://github.com/kv2000/deepFashion3D) (Password: `cuhkszsribddeepfashion3DBp4h+EyY@8wEijv`)
-- [Sizer](https://virtualhumans.mpi-inf.mpg.de/sizer/) (Password: `tiwari20sizer`)
+- [deepFashion3D](https://github.com/kv2000/deepFashion3D)
+- [Sizer](https://virtualhumans.mpi-inf.mpg.de/sizer/)
 - [TailorNet Dataset](https://github.com/zycliao/TailorNet_dataset)
 - [Garment Generation Dataset](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/)
 
